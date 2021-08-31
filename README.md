@@ -1,2 +1,2 @@
 To-do list
-Compile both files and run mainUI.java
+Compile files and run mainUI.java
